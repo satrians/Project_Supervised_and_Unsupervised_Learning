@@ -58,13 +58,13 @@ install via pip:
 pip install -r requirements.txt
 ```
 Project Structure
-.
-├── data.csv                    # Original dataset
-├── data_clustering.csv         # Dataset with added cluster labels
-├── model_clustering.h5         # Saved KMeans clustering model
-├── project.ipynb / .py         # Main project notebook or script
-├── README.md                   # Project description and documentation
-.
+
+- data.csv                    # Original dataset
+- data_clustering.csv         # Dataset with added cluster labels
+- model_clustering.h5         # Saved KMeans clustering model
+- project.ipynb / .py         # Main project notebook or script
+- README.md                   # Project description and documentation
+
 
 📣 Author
 Created by Satria Nugraha Saputra
